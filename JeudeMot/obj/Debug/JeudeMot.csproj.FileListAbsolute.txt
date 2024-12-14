@@ -1,0 +1,15 @@
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\bin\Debug\JeudeMot.exe.config
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\bin\Debug\JeudeMot.exe
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\bin\Debug\JeudeMot.pdb
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\obj\Debug\JeudeMot.csproj.AssemblyReference.cache
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\obj\Debug\MainWindow.g.cs
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\obj\Debug\App.g.cs
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\obj\Debug\JeudeMot_MarkupCompile.cache
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\obj\Debug\JeudeMot_MarkupCompile.lref
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\obj\Debug\MainWindow.baml
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\obj\Debug\JeudeMot.g.resources
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\obj\Debug\JeudeMot.Properties.Resources.resources
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\obj\Debug\JeudeMot.csproj.GenerateResource.cache
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\obj\Debug\JeudeMot.csproj.CoreCompileInputs.cache
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\obj\Debug\JeudeMot.exe
+C:\Users\couli\source\repos\JeudeMot\JeudeMot\obj\Debug\JeudeMot.pdb
